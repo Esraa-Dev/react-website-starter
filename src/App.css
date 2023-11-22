@@ -212,8 +212,6 @@ button {
   display: block;
   position: absolute;
   top: -25px;
-}
-footer {
   background-color: red;
   text-align: center;
 }
